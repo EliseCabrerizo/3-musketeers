@@ -1,9 +1,8 @@
 # cash
 
 ## Installation nécessaire 
-  ` >cd /path/to/workspace/3-musketeers/cash     
-    
-    >npm i`
+  ` >cd /path/to/workspace/3-musketeers/cash
+  >npm i`
 
 ## Executer 
   
