@@ -1,8 +1,11 @@
 # cash
 
 ## Installation nécessaire 
-  ` >cd /path/to/workspace/3-musketeers/cash
-  >npm i`
+ ```sh
+❯ cd /path/to/workspace/3-musketeers/cash
+❯ npm i
+❯ node bin/index.js
+```
 
 ## Executer 
   
