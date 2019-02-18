@@ -1,10 +1,11 @@
 # cash
 
 ## Installation nécessaire 
-  `npm i`
+  `>cd /path/to/workspace/3-musketeers/cash
+   >npm i`
 
 ## Executer 
-  `node bin/index.js`
+  `>node bin/index.js`
  
 ## Ce qu'il fait : convertir des devises
 Il a besoin de npm afin d'utiliser les fonctions lié à la librairie money. Il a aussi besoin d'une librairie rajoutée qui convertit les abréviations des devises en leur noms entiers.
