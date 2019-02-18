@@ -13,8 +13,6 @@
 ❯ node bin/index.js
 ```
 * Si lorsque l'on appelle la fontion index.js on met des paramètres (nombre d'argent, devise de départ, devise d'arrivée), alors il nous affiche la somme convertit.
-
-#### Exemple
 ```sh
 ❯ node bin/index.js 10 EUR USD
 ```
